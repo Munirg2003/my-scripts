@@ -40,7 +40,7 @@ This tool provides a user-friendly interface to manage RDP Wrapper (which enable
 Run the script directly from GitHub using PowerShell (Run as Administrator):
 
 ```powershell
-irm https://github.com/Munirg2003/my-scripts/raw/refs/heads/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/Munirg2003/my-scripts/main/install.ps1 | iex
 ```
 
 This will download and execute the script in a single command.
